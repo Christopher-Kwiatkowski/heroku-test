@@ -1,0 +1,1 @@
+export 'DATABASE_URL' = 'postgres://shannonhurley@localhost:5432/todoapp'
